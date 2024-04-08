@@ -1,2 +1,2 @@
 # my-cv
-My first personal website in github
+My first personal CV in github
